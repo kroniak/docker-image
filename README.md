@@ -1,6 +1,6 @@
 # docker-image
 
-A little docker image based on doker-* with packages
+A little docker image based on docker-* with packages
 
 ## using from GitLab CI
 
